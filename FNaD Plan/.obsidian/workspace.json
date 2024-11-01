@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Brain"
             }
+          },
+          {
+            "id": "f01f1e8ad599c197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brain"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb3d6c10691d3d07",
@@ -178,8 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9360588b9df74cc",
+  "active": "f01f1e8ad599c197",
   "lastOpenFiles": [
-    "Brain.md"
+    "Pre-Processing Dataset.md",
+    "Brain.md",
+    "Dimension Reduction.md",
+    "Porter Stemmer.md",
+    "Obtaining Dataset.md"
   ]
 }
