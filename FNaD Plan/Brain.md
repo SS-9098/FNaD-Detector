@@ -1,4 +1,4 @@
-## [[Research Papers]] for Reference
+## [Research Papers](Research%20Papers) Research Papers for Reference
 ### Obtaining Dataset
 - ISOT Fake News Dataset
 - KDNugget Dataset
