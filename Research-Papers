@@ -1,7 +1,0 @@
-layout: page
-title: "Research Papers"
-permalink: https://ss-9098.github.io/FNaD-Detector/Research%20Papers
-
-- https://ieeexplore.ieee.org/abstract/document/9343823/references#references - Multiple machine learning and deep learning algorithms combined.
-- https://www.researchgate.net/publication/339022255_A_smart_System_for_Fake_News_Detection_Using_Machine_Learning - 93% Accurate Model
-- https://link.springer.com/chapter/10.1007/978-3-030-02131-3_52#Sec4 - Simple one, specifically for Python.
