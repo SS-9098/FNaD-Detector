@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brain.md",
+                "file": "Research Papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain"
+              "title": "Research Papers"
             }
           }
         ],
@@ -195,8 +195,8 @@
   },
   "active": "f01f1e8ad599c197",
   "lastOpenFiles": [
-    "Reseach Papers.md",
     "Brain.md",
+    "Reseach Papers.md",
     "Research Papers.md",
     "Pre-Processing Dataset.md",
     "Dimension Reduction.md",
