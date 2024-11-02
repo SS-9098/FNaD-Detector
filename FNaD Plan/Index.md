@@ -6,7 +6,7 @@
 ### Pre-Processing Dataset
 To reduce the size of the dataset, removing useless information and extracting necessary information.
 - [[Porter Stemmer]]
-- [[Term Frequency-Inverse Document Frequency(TFIDF)]]
+- [[Term Frequency-Inverse Document Frequency(TF-IDF)]]
 ### Dimension Reduction
 - [[Query Expansion]]
 ### Positioning the Dataset
